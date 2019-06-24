@@ -1,3 +1,4 @@
+# This repo has been moved to [GDGCR-Flutter Repo](https://github.com/GDG-CR/flutter)
 # Flutter Monthly Meetup - Google Developer Group of the Capital Region
 [Flutter Monthly Meetup - Google Developer Group of the Capital Region](https://www.meetup.com/Google-Developer-Group-of-the-Capital-Region)
 
